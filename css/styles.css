@@ -41,6 +41,10 @@
   --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
+.bg-pink{
+  background-color: #f26d6f !important;
+}
+
 *,
 *::before,
 *::after {
@@ -2471,7 +2475,7 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #f4623a;
+  background-color: #e340ba;
   border-color: #f4623a;
 }
 .btn-primary:hover {
@@ -6095,7 +6099,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #f4623a !important;
+  background-color: #e340ba !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -9797,7 +9801,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #f4623a !important;
+  color: #e340ba !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -10007,7 +10011,7 @@ html {
 hr.divider {
   max-width: 3.25rem;
   border-width: 0.2rem;
-  border-color: #f4623a;
+  border-color: #e340ba;
 }
 
 hr.light {
@@ -10049,10 +10053,10 @@ hr.light {
   padding: 0.75rem 0;
 }
 #mainNav .navbar-nav .nav-item .nav-link:hover, #mainNav .navbar-nav .nav-item .nav-link:active {
-  color: #f4623a;
+  color: #e340ba;
 }
 #mainNav .navbar-nav .nav-item .nav-link.active {
-  color: #f4623a !important;
+  color: #e340ba !important;
 }
 @media (min-width: 992px) {
   #mainNav {
@@ -10089,7 +10093,7 @@ hr.light {
     color: #212529;
   }
   #mainNav.navbar-scrolled .navbar-nav .nav-item .nav-link:hover {
-    color: #f4623a;
+    color: #e340ba;
   }
 }
 
