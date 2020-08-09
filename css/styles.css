@@ -10058,6 +10058,7 @@ hr.light {
 #mainNav .navbar-nav .nav-item .nav-link.active {
   color: #e340ba !important;
 }
+
 @media (min-width: 992px) {
   #mainNav {
     box-shadow: none;
